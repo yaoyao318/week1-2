@@ -1,9 +1,21 @@
-# D4 提示词迭代｜《太阳公主》宇宙行星悲剧创作
-## P1 初始提示词
-为单依纯《太阳公主》创作宇宙行星主题视觉，表现宇宙毁灭、神祇牺牲的悲壮氛围感。
+# 太阳公主海报 提示词迭代记录
+## 第一轮：Midjourney 初始生成（基础海报）
+**创作目的**：生成符合《太阳公主》叙事的超现实神性拼贴海报，完成构图、色调、氛围的基础搭建
+**使用工具**：Midjourney V7.0
+**完整提示词**：
+Vertical 3:4 surreal character poster, depicting the sun god, goddess, and multiple figures in a collage composition. The central focus is on the main character's cold and compassionate portrait, with semi-blurred side profiles and distant outlines layered over. The character is adorned with a minimalist matte godly crown, a flowing matte godly robe, surrounded by shattered rock textures and feather-like cosmic fragments. The background features a deep spiral cosmic tunnel, with a composition of inward-contracting whirlpools and a distant glow of soft matte light at the end of the tunnel. The overall color scheme is a low saturation warm brown + charcoal gray + beige earthy retro tones, with a fine sandpaper-like texture across the entire image, matte cinematic side lighting outlining the divine silhouette; dark and serene base color, epic-level destiny atmosphere, minimalist and sophisticated blank space, prohibiting realistic celestial bodies, dazzling lights, plastic reflections, and bright colors. The image is delicate and controlled, blending collage art with cinematic high-quality texture. --q 0.5 --s 234 --iw 1.25 --v 7
 
-## P2 优化提示词
-创作设定：宇宙濒临崩塌，太阳神行星献祭自身，身躯碎裂成星云与星骸，另一颗行星在深空悲鸣；暗黑宇宙史诗风格，暗紫色深空背景，搭配炽金色炸裂光焰、漂浮星屑，突出毁灭与永恒思念的悲剧感。
+**生成图片**：
+![MJ初始生成海报](![Uploading 太阳公主海报未改脸.jpg…]()
+)
 
-## P3 最终提示词
-完整还原《太阳公主》行星神祇悲剧：以坍缩宇宙为基底，画面中心是正在炸裂、迸发光焰的太阳神星核，漫天漂浮金色星骸、暗紫螺旋星云；逆光史诗光影，呈现献祭瞬间的悲壮与孤寂；画面节奏贴合歌曲悲愤空灵的编曲，匹配恋人行星的情绪起伏，用于MV核心分镜创作。
+---
+
+## 第二轮：即梦AI 面部优化（仅修脸，不改背景）
+**创作目的**：仅优化人物面部五官，100%保留原图所有构图、背景、肌理、色调，解决人脸模糊、五官不精致的问题
+**使用工具**：即梦AI
+**完整提示词**：
+仅改变人物的脸,少女,精致流畅的五官，清冷悲悯的神性神情，脸部清晰干净，皮肤细腻柔和,完全保留原图的多重人像构图、螺旋隧道背景、破碎岩石肌理、云雾质感、金色头饰，不改动任何背景细节、不改变画面结构
+
+**优化后图片**：
+![即梦AI修脸后海报](此处替换为你的图片链接)
