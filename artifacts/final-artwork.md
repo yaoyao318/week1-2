@@ -29,8 +29,8 @@
 
 #### ② 即梦AI 面部细节精修
 在100%保留原图构图、背景、色调的前提下，优化人物清冷悲悯的神性五官，完成最终人物形象定稿
-![即梦AI修脸后海报](![Uploading 太阳公主海报.png…]()
-)
+![即梦AI修脸后海报](<img width="1728" height="2304" alt="太阳公主海报" src="https://github.com/user-attachments/assets/fa8a2f70-68f8-4b6a-9ecd-8a6b6de5bcfc" />
+
 
 ### 3. 歌曲段落视觉匹配
 - **前奏**：暗紫色星云疯狂坍缩，暗流涌动，铺垫毁灭危机
