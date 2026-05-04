@@ -18,4 +18,5 @@ Vertical 3:4 surreal character poster, depicting the sun god, goddess, and multi
 仅改变人物的脸,少女,精致流畅的五官，清冷悲悯的神性神情，脸部清晰干净，皮肤细腻柔和,完全保留原图的多重人像构图、螺旋隧道背景、破碎岩石肌理、云雾质感、金色头饰，不改动任何背景细节、不改变画面结构
 
 **优化后图片**：
-![即梦AI修脸后海报](此处替换为你的图片链接)
+![即梦AI修脸后海报](<img width="1728" height="2304" alt="太阳公主海报" src="https://github.com/user-attachments/assets/aeaab1e6-afc8-45eb-82a6-2ca8a609a0fe" />
+)
